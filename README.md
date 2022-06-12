@@ -2,7 +2,7 @@
 - 👀 I’m interested in Internship & Placements
 - 🌱 I’m currently learning WebD
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email:raushanvadshah@Gmail.com
+- 📫 How to reach me email:raushanvadshah@gmail.com
 
 <!---
 raushan27/raushan27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
