@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @raushan27
 - 👀 I’m interested in Internship & Placements
-- 🌱 I’m currently learning WebD
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email:raushanvadshah@gmail.com
 
 <!---
